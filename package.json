@@ -1,0 +1,12 @@
+{
+  "name": "hw-10",
+  "version": "1.0.0",
+  "main": "q",
+  "scripts": {
+    "test": "qq"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
